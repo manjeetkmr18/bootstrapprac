@@ -74,3 +74,9 @@ h1 {
   font-family: "montserrat-light";
   color: #8f8f8f;
 }
+
+#testimonials{
+    padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;;
+}
