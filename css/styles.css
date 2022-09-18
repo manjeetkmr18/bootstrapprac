@@ -78,5 +78,15 @@ h1 {
 #testimonials{
     padding: 7% 15%;
   text-align: center;
-  background-color: #ef8172;;
+  background-color: #ef8172;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+#press{
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3%;
 }
