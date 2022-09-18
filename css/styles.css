@@ -48,14 +48,20 @@ h1 {
 }
 
 #features {
-  padding: 5% 0;
+  padding: 7% 15%;
   text-align: center;
 }
 
 .features-box .fa-solid {
   font-size: 3rem;
-  color: #ff4c68;
+  color: #ef8172;
+  margin-bottom: 1rem;
 }
+
+.features-box .fa-solid:hover {
+  color: #ff1c68;
+}
+
 
 .features-box h3 {
   font-size: 1.3rem;
